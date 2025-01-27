@@ -4,6 +4,8 @@ View the [demo here](https://demo.magic-portfolio.com).
 
 ![Magic Portfolio](public/images/cover.png)
 
+# Small change
+
 
 # **Getting started**
 
